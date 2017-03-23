@@ -3,7 +3,7 @@
 [Je m'inscris](https://equipe-formation-campusplus.typeform.com/to/FRPaqA){:target="_blank" class="button"}
 
 ### QUAND ET OÙ ?
-Le 27 Avril 2017 à Arc de Seine{: style="text-align: center;"} 
+Le 27 Avril 2017 à Arc de Seine
 
 ### QU'EST-CE QU'EST UN HACKATHON ?
 Hackathon est la contraction de “Hack” et de “Marathon”. Ici, “Hacker” n’est pas un terme péjoratif mais peut être défini comme aller chercher plus loin dans la manipulation d’un système informatique. 

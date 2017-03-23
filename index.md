@@ -1,9 +1,9 @@
-# CANAL coding camp
-
 [Je m'inscris](https://equipe-formation-campusplus.typeform.com/to/FRPaqA){:target="_blank" class="button"}
 
 ### QUAND ET OÙ ?
 Le 27 Avril 2017 à Arc de Seine
+
+// PHOTOS AdS + Développeurs // 
 
 ### QU'EST-CE QU'EST UN HACKATHON ?
 Hackathon est la contraction de “Hack” et de “Marathon”. Ici, “Hacker” n’est pas un terme péjoratif mais peut être défini comme aller chercher plus loin dans la manipulation d’un système informatique. 
@@ -12,8 +12,11 @@ Quant à “Marathon”, il représente le fait qu’un hackathon soit un concou
 Cet événement permet de rassembler des savoir-faire sur un temps limité et de mixer les réflexions, les idées, la créativité et les compétences dont les croisements n’ont peut-être pas encore été imaginés. 
 Il représente donc la co-création entre des développeurs, des designers, et bien d’autres professions qui en quelques heures élaborent (généralement) en équipe des projets, des applications innovantes, ou autres.
 
+// EMBED Vidéo Hackathon Dailymotion ? // 
+
 ### POUR QUI ?
 DÉVELOPPEURS – GRAPHISTES - MARKETEURS – DATA ANALYSTES – ARCHITECTES – UX DESIGNERS 
+
 **& tous les talents susceptibles de relever le défi proposé, à savoir créer un concept innovant !**
 
 ### POUR QUOI ?
@@ -39,5 +42,9 @@ DÉVELOPPEURS – GRAPHISTES - MARKETEURS – DATA ANALYSTES – ARCHITECTES –
 - 19 h 30 : Cocktail et Délibération du Jury 
 - 20 h 00 : Remise des prix
 - 20 h 30 : Dîner et soirée au "Bureau"
+
+### LES PRIX
+
+### LES MENTORS
 
 ### JURY

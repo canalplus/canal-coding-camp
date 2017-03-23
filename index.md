@@ -1,5 +1,3 @@
-# CANAL coding camp
-
 [Je m'inscris](https://equipe-formation-campusplus.typeform.com/to/FRPaqA){:target="_blank" class="button"}
 
 ### QUAND ET OÙ ?
@@ -14,6 +12,7 @@ Il représente donc la co-création entre des développeurs, des designers, et b
 
 ### POUR QUI ?
 DÉVELOPPEURS – GRAPHISTES - MARKETEURS – DATA ANALYSTES – ARCHITECTES – UX DESIGNERS 
+
 **& tous les talents susceptibles de relever le défi proposé, à savoir créer un concept innovant !**
 
 ### POUR QUOI ?

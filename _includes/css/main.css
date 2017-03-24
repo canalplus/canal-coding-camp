@@ -465,5 +465,16 @@ footer .footer-below {
 
 
 .video {
-    padding-top: 1em
+    padding-top: 1em;
+    z-index: 0;
+}
+
+#about .col-lg-8{
+    margin: 0 8%;
+}
+
+@media(min-width:800px) {
+    #about .col-lg-8{
+        margin: 0 18%
+    }
 }

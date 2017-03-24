@@ -478,3 +478,34 @@ footer .footer-below {
         margin: 0 18%
     }
 }
+
+footer {
+    background-color: #{{ site.color.secondary }};
+    padding: 15px 0;
+    position: relative;
+}
+
+footer img {
+    position: absolute;
+    width: 50px;
+    bottom: 20px;
+    right: 4%;
+    z-index: 0;
+}
+
+footer .page__footer-follow ul {
+    text-align: center;
+}
+
+footer .page__footer-follow ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+footer .page__footer-follow ul li a {
+    color: #fff;
+}
+
+footer .page__footer-copyright {
+    text-align: center;
+}

@@ -19,3 +19,11 @@ footer:
 
 camp:
   date: Journée du 27 avril 2017
+
+# Social Sharing
+twitter:
+  username               : plusdedev
+facebook:
+  username               : plusdedev
+  app_id                 :
+  publisher              : plusdedev

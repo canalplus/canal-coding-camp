@@ -262,7 +262,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #{{ site.color.primary }};;
+    border: solid 2px #{{ site.color.secondary }};;
     font-size: 20px;
     color: #{{ site.color.primary }};;
     background: 0 0;
@@ -273,7 +273,8 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};;
+    color: #fff;
 }
 
 .floating-label-form-group {
@@ -460,4 +461,9 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+
+.video {
+    padding-top: 1em
 }

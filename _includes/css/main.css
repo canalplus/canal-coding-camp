@@ -469,6 +469,17 @@ footer .footer-below {
     z-index: 0;
 }
 
+.video iframe {
+    width: 60%;
+}
+
+@media(max-width:768px) {
+    .video iframe {
+        height: 60%;
+        width: 80%;
+    }
+}
+
 #about .col-lg-8{
     margin: 0 8%;
 }

@@ -98,6 +98,15 @@ header img {
     margin: 0 auto 20px;
 }
 
+header .intro-text .key-words {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    color: #{{ site.color.tertiary }};
+}
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;

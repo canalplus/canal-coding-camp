@@ -7,8 +7,9 @@ gh_repo: "https://github.com/alexduros/canal-coding-camp/"
 color:
   primary: "000" #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 2c3e50 #2c3e50
+  secondary-dark: 233140 #233140
+  tertiary: "00EFEF" #00EFEF
 
 # Footer settings
 footer:
@@ -19,6 +20,7 @@ footer:
 
 camp:
   date: Journée du 27 avril 2017
+  key-words: Innovation - Créativité - Fun
 
 # Social Sharing
 twitter:

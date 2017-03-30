@@ -99,9 +99,6 @@ header img {
 }
 
 header .intro-text .key-words {
-    display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2.2em;
     font-weight: 700;
     color: #{{ site.color.tertiary }};
@@ -491,6 +488,13 @@ footer .footer-below {
         height: 60%;
         width: 80%;
     }
+}
+.key-words {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.8em;
+    font-weight: 700;
 }
 
 #about .col-lg-8{

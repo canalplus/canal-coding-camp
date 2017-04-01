@@ -507,6 +507,10 @@ footer .footer-below {
     }
 }
 
+#why img{
+    margin: auto;
+}
+
 footer {
     background-color: #{{ site.color.secondary }};
     padding: 15px 0;

@@ -8,7 +8,7 @@ color:
   primary: "000" #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #2c3e50
-  secondary-dark: 233140 #233140
+  secondary-dark: 111 #233140 #233140
   tertiary: "00EFEF" #00EFEF
 
 # Footer settings

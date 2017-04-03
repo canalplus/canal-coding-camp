@@ -498,13 +498,13 @@ footer .footer-below {
 }
 
 #about .col-lg-8,
-#faq   .col-lg-8,{
+#faq   .col-lg-8{
     margin: 0 8%;
 }
 
 @media(min-width:800px) {
     #about .col-lg-8,
-	#faq   .col-lg-8,{
+	#faq   .col-lg-8{
         margin: 0 18%
     }
 }
